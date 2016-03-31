@@ -4,7 +4,7 @@ using System;
     {
         static void Main()
         {
-        Console.WriteLine(Math.Pow(12345, 2));
+        Console.WriteLine(Math.Sqrt(12345));
         }
     }
 
